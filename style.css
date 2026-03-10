@@ -1,11 +1,6 @@
 .body{
-    justify-content: center;
-    justify-items: right;
-    color: yellow;
-    height: 300px;
-    width: 300px;
-    align-content: center;
-
+    justify-items: center;
+    
 }
 *{
     margin: 0;
