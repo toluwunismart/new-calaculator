@@ -39,7 +39,7 @@
 form .display {
     display: flexbox;
     justify-items:center
-    margin: 20px 10;
+    margin: 20px 10px;
 }
 form .display input{
     text-align: right;
