@@ -5,7 +5,10 @@
     justify-content: center;
     align-items: center;
     
-    
+    .container.display{
+     padding: 25px;        
+
+    }
     
 }
 .container{
