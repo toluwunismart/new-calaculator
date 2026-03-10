@@ -35,6 +35,8 @@
 
 }
 form .display {
+    display: flex;
+    justify-content: flex-end;
     text-align: right;
     flex: 1px;
     font-size: 40px;
