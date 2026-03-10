@@ -4,7 +4,7 @@
     box-sizing: border-box;
     justify-content: center;
     align-items: center;
-    
+    justify-items: center;
     
 }
 .container{
@@ -41,9 +41,11 @@
 
 }
 form .display {
-    display: flex;
-    justify-items:flex-end
+    justify-content: center;
     margin: 20px 0;
+    padding: 10px;
+     display: flex;
+    flex: 0;
 }
 form .display input{
     text-align: right;
