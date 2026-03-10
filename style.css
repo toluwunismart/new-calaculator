@@ -37,7 +37,7 @@
 
 }
 form .display {
-    display: contents;
+    display: flexbox;
     justify-items:center
     margin: 20px 0;
 }
