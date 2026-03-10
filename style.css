@@ -38,7 +38,7 @@
 }
 form .display {
     display: flexbox;
-    justify-items:center
+    justify-items: first baseline;
     margin: 20px 0;
 }
 form .display input{
