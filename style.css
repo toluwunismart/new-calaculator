@@ -6,7 +6,9 @@
     align-items: center;
     
     .container.display{
-     padding: 25px;        
+     padding: 25px; 
+     justify-content: center;
+     align-items: center;       
 
     }
     
