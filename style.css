@@ -1,6 +1,7 @@
 .body{
     justify-content: center;
     justify-items: right;
+    color: yellow;
 }
 *{
     margin: 0;
