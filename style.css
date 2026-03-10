@@ -4,7 +4,8 @@
     color: yellow;
     height: 300px;
     width: 300px;
-    
+    align-content: center;
+
 }
 *{
     margin: 0;
