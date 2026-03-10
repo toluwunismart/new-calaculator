@@ -37,8 +37,8 @@
 
 }
 form .display {
-    display: flex;
-    justify-items: center;
+    display: contents;
+    justify-items:center
     margin: 20px 0;
 }
 form .display input{
