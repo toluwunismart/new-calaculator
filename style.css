@@ -3,6 +3,7 @@
     padding: 0;
     font-family: poppins, sans-serif;
     box-sizing: border-box;
+    justify-content: center;
 }
 .container{
     width: 500px;
