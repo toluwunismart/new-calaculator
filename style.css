@@ -36,7 +36,7 @@
 }
 form .display {
     text-align: right;
-    flex: 1;
+    flex: 1px;
     font-size: 40px;
     box-shadow: none;
 }
