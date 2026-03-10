@@ -17,6 +17,8 @@
     background-color: black;
     padding: 20px;
     border-radius: 10px;
+    gap: 10px;
+    
 
 }
 .calculator form input{
