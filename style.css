@@ -41,8 +41,10 @@ button{
     cursor: pointer;
 
 button:hover(
-    background-color 
+    background-color rgb(250, 247, 247)
 )
-    
+   .operator-btn{
+    background-color: orange;
+   } 
     
 }
