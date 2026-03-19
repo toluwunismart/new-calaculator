@@ -1,6 +1,4 @@
 #keys{
-    padding: 25px;
-    gap: 10px;
     display: grid;
     grid-template-columns: repeat(4 1fr);
 
@@ -13,6 +11,8 @@ button{
     border-radius: 50px;
     background-color: black;
     color: white;
-font: bold;
-font size: 10px;
+    font: bold;
+    font size: 5px;
+    cursor: pointer;
+    font-weight: bold;
 }
