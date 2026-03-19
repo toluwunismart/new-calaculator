@@ -5,43 +5,31 @@
      <link rel="stylesheet" href="style.css">
 </head>
     <body>
-        <div class="container">
-            <div class="calculator">
-            <form>
-                <div class="display" id="number">
-                     <input type="text" name="display">
-                </div>
-                <div>
-                <input type="button" value="<--">
-                <input type="button" value="AC">
-                <input type="button" value="%">
-                <input type="button" value="/">
-                </div>
-                <div>
-                <input type="button" value="7"> 
-                <input type="button" value="8">
-                <input type="button" value="9">
-                <input type="button" value="*">
-                </div>
-                <div>
-                <input type="button" value="4">
-                <input type="button" value="5">
-                <input type="button" value="6">
-                <input type="button" value="-">
-                </div>
-                <div>
-                <input type="button" value="1">
-                <input type="button" value="2">
-                <input type="button" value="3">
-                <input type="button" value="+">
-                </div>
-                <div>
-                <input type="button" value="+/-">
-                <input type="button" value="0">
-                <input type="button" value=".">
-                <input type="button" value="=">
-                </div>
-            </form>
+        <div id="calculator">
+            <input id="display" readonly>
+            <div id="keys">
+                <button onclick="appendtodisplay{'<--'}"><--</button>
+                <button onclick="cleardisplay{}">AC</button>
+                <button onclick="appendtodisplay{'%'}">%</button>
+                <button onclick="appendtodisplay{'/'}">/</button>
+                <button onclick="appendtodisplay{'7'}">7</button>
+                <button onclick="appendtodisplay{'8'}">8</button>
+                <button onclick="appendtodisplay{'9'}">9</button>
+                <button onclick="appendtodisplay{'*'}">*</button>
+                <button onclick="appendtodisplay{'4'}">4</button>
+                <button onclick="appendtodisplay{'5'}">5</button>
+                <button onclick="appendtodisplay{'6'}">6</button>
+                <button onclick="appendtodisplay{'-'}">-</button>
+                <button onclick="appendtodisplay{'1'}">1</button>
+                <button onclick="appendtodisplay{'2'}">2</button>
+                <button onclick="appendtodisplay{'3'}">3</button>
+                <button onclick="appendtodisplay{'+'}">+</button>
+                <button onclick="appendtodisplay{'+/-'}">+/-</button>
+                <button onclick="appendtodisplay{'0'}">0</button>
+                <button onclick="appendtodisplay{'.'}">.</button>
+                <button onclick="calculate{}">=</button>
+        
+            </div>
 
         </div>
         
