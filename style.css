@@ -14,11 +14,13 @@ body{
 }
 #display{
     width: 400px;
-    padding: 70px;
+    padding: 50px;
     border: none;
     font-size: 70px;
-    text-align: left;
+    text-align: right;
      background-color: rgb(8, 8, 8);
+     color: white;
+
 }
 #keys{
     display: grid;
