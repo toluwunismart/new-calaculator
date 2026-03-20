@@ -35,7 +35,7 @@ body{
 
 }
 button :hover{
-    background-color: white;
+    background-color: rgba(197, 6, 6, 0.268);
 }
 button{
     width: 100px;
