@@ -48,4 +48,6 @@ button{
    .operator-btn{
     background-color: rgb(255, 166, 0);
    } 
-    
+    .style{
+        background-color: rgb(212, 207, 207);
+    }
