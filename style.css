@@ -34,9 +34,7 @@ body{
 
 
 }
-button :hover{
-    background-color: rgba(228, 224, 224, 0.478);
-}
+
 button{
     width: 100px;
     height: 100px;
@@ -47,6 +45,9 @@ button{
     font:bold;
     font-size: 50px;
     cursor: pointer;
+}
+button :hover{
+    background-color: rgba(228, 224, 224, 0.268);
 }
    .operator-btn{
     background-color: rgb(255, 166, 0);
