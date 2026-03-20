@@ -31,13 +31,13 @@ body{
     gap: 5px;
     padding: 10px;
     margin: 5px;
-    
+
 
 }
 button{
     width: 100px;
     height: 100px;
-    border: none;
+    border: 10px;
     border-radius: 50px;
     background-color: rgb(55, 54, 54);
     color: white;
