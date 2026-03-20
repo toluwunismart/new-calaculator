@@ -47,8 +47,7 @@ button{
     cursor: pointer;
 }
 button :hover{
-    background-color: rgba(228, 224, 224, 0.268);
-    color: red;
+    background-color: rgba(228, 224, 224, 0.714);
 }
    .operator-btn{
     background-color: rgb(255, 166, 0);
